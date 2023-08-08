@@ -1,6 +1,6 @@
+import os
 from pytube import YouTube
 from moviepy.video.io.VideoFileClip import VideoFileClip
-import os
 
 # Define the YouTube video URL and chapter timestamps
 video_url = "Your YouTube Video URL"
